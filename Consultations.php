@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Consultations - Kanun Law Firm</title>
+    <title>Consultations</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Law Firm Website Template" name="keywords">
     <meta content="Law Firm Website Template" name="description">
@@ -124,7 +124,7 @@
                                 <i class="fa fa-landmark fa-3x mb-3"></i>
                                 <h3 class="card-title">Civil Law</h3>
                                 <p class="card-text">Expert consultations on property disputes, contracts, and personal injury cases.</p>
-                                <a href="civil_law_consultation.php" class="btn btn-primary">Learn More</a>
+                                <a href="civil.php" class="btn btn-primary">Add consultations</a>
                             </div>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                                 <i class="fa fa-users fa-3x mb-3"></i>
                                 <h3 class="card-title">Family Law</h3>
                                 <p class="card-text">Guidance on divorce, child custody, adoption, and other family-related legal matters.</p>
-                                <a href="family_law_consultation.php" class="btn btn-primary">Learn More</a>
+                                <a href="family.php" class="btn btn-primary">Add consultations</a>
                             </div>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                                 <i class="fa fa-hand-holding-usd fa-3x mb-3"></i>
                                 <h3 class="card-title">Business Law</h3>
                                 <p class="card-text">Comprehensive legal support for business operations, contracts, and mergers.</p>
-                                <a href="business_law_consultation.php" class="btn btn-primary">Learn More</a>
+                                <a href="business.php" class="btn btn-primary">Add consultations</a>
                             </div>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
                                 <i class="fa fa-shield-alt fa-3x mb-3"></i>
                                 <h3 class="card-title">State Security Cases</h3>
                                 <p class="card-text">Defense services for cases involving national security and state protection laws.</p>
-                                <a href="state_security_consultation.php" class="btn btn-primary">Learn More</a>
+                                <a href="state.php" class="btn btn-primary">Add consultations</a>
                             </div>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                                 <i class="fa fa-gavel fa-3x mb-3"></i>
                                 <h3 class="card-title">Criminal Law</h3>
                                 <p class="card-text">Legal representation and consultations for cases involving criminal charges.</p>
-                                <a href="criminal_law_consultation.php" class="btn btn-primary">Learn More</a>
+                                <a href="criminal.php" class="btn btn-primary">Add consultations</a>
                             </div>
                         </div>
                     </div>
@@ -184,7 +184,7 @@
                                 <i class="fa fa-globe fa-3x mb-3"></i>
                                 <h3 class="card-title">Cyber Law</h3>
                                 <p class="card-text">Specialized consultations on online privacy, cybercrimes, and data protection.</p>
-                                <a href="cyber_law_consultation.php" class="btn btn-primary">Learn More</a>
+                                <a href="cyber.php" class="btn btn-primary">Add consultations</a>
                             </div>
                         </div>
                     </div>
